@@ -15,5 +15,7 @@
 
 \f1\fs24 \cf3 \cb4 \outl0\strokewidth0 \strokec3 Creating a 
 \f2\b \cf5 \strokec5 new
-\f1\b0 \cf3 \strokec3  branch is quick & simple.\
+\f1\b0 \cf3 \strokec3  branch is quick 
+\f2\b \cf5 \strokec5 and
+\f1\b0 \cf3 \strokec3  simple.\
 }
