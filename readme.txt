@@ -13,9 +13,12 @@
 3 row text\
 \pard\pardeftab720\sl360\partightenfactor0
 
-\f1\fs24 \cf3 \cb4 \outl0\strokewidth0 \strokec3 Creating a 
-\f2\b \cf5 \strokec5 new
-\f1\b0 \cf3 \strokec3  branch is quick 
-\f2\b \cf5 \strokec5 and
-\f1\b0 \cf3 \strokec3  simple.\
-}
+\f1\fs24 \cf3 \cb4 Creating a 
+\f2\b \cf5 new
+\f1\b0 \cf3  branch is quick 
+\f2\b \cf5 and
+\f1\b0 \cf3  simple.\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf3 \cb4 Creating a 
+\f2\b \cf5 new
+\f1\b0 \cf3  branch is dev.}
