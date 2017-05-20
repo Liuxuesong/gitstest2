@@ -18,7 +18,7 @@
 \f1\b0 \cf3  branch is quick 
 \f2\b \cf5 and
 \f1\b0 \cf3  simple.\
-\pard\pardeftab720\sl360\partightenfactor0
-\cf3 \cb4 Creating a 
+Creating a 
 \f2\b \cf5 new
-\f1\b0 \cf3  branch is dev.}
+\f1\b0 \cf3  branch is dev.\
+6 row text}
